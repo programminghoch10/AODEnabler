@@ -1,1 +1,2 @@
-# AODEnabler
+# ClearLineage
+LineageOS Clear Theme
